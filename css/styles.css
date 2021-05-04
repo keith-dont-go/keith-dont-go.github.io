@@ -74,13 +74,15 @@ div.B
 
 div.C
 {
-	background-color: #A3CBCF;
+	background-color: #000000;
+	color: #3F3F3F;
 	width: 360px;
 	margin: 0 auto;
 	vertical-align: middle;
 	text-align: left;
 	font-family: sans-serif;
-	text-indent: 8px;
+	border-right: 6px solid #2F2F2F;
+	text-indent: 0px;
 	font-size: 24px;
 	font-weight: 900;
 }
@@ -117,12 +119,15 @@ div.cent
 
 div.sc
 {
-	background-color: #000000;
+	background-color: goldenrod;
 	width: 360px;
 	height: 28px;
 	margin: 0 auto;
-	color: goldenrod;
-	padding: 0px 4px 0px 0px;
+	color: #000000;
+	padding-top: 8px;
+	padding-right: 0px;
+	padding-bottom: 4px;
+	padding-left: 0px;
 	text-align: center;
 	vertical-align: gottom;
 	font-family: sans-serif;
@@ -196,6 +201,18 @@ span.caption
 	font-size: 1.3em;
 	font-weight: 900;
 	color: #FFFFFF;
+}
+
+span.space2pct
+{
+	padding-left: 1%;
+	padding-right: 1%;
+}
+
+span.space4pct
+{
+	padding-left: 2%;
+	padding-right: 2%;
 }
 
 span.space5pct
