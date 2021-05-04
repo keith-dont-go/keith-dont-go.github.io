@@ -81,7 +81,9 @@ div.C
 	vertical-align: middle;
 	text-align: left;
 	font-family: sans-serif;
-	border-right: 6px solid #2F2F2F;
+	border-right: 24px solid #1F1F1F;
+	/*box-shadow: inset 0px 0px 0px 10px red;*/
+	box-sizing: border-box;
 	text-indent: 0px;
 	font-size: 24px;
 	font-weight: 900;
