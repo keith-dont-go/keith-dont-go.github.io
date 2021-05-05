@@ -143,8 +143,9 @@ div.cent
 
 div.crew
 {
-  display: flex;
-  justify-content: space-between;
+	display: flex;
+	justify-content: space-between;
+	white-space: nowrap;
 }
 
 div.sc
