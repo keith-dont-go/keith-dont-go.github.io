@@ -190,6 +190,12 @@ div.marg
 	margin: 10px;
 }
 
+span.B
+{
+	width: 140px;
+	display: inline-block;
+}
+
 span.caption
 {
 	font-family: sans-serif;
