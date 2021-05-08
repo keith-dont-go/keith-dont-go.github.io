@@ -204,43 +204,6 @@ span.caption
 	color: #FFFFFF;
 }
 
-span.space2pct
-{
-	padding-left: 1%;
-	padding-right: 1%;
-}
-
-span.space4pct
-{
-	padding-left: 2%;
-	padding-right: 2%;
-}
-
-span.space5pct
-{
-	padding-left: 2%;
-	padding-right: 3%;
-}
-
-span.space10pct
-{
-	padding-left: 5%;
-	padding-right: 5%;
-}
-
-span.space15pct
-{
-	padding-left: 7%;
-	padding-right: 8%;
-}
-
-span.space20pct
-{
-	padding-left: 10%;
-	padding-right: 10%;
-}
-
-
 video.btn
 {
 	width: 144px;
