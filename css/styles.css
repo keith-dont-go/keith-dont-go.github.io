@@ -52,7 +52,18 @@ h2.main
 	white-space: nowrap;
 }
 
-.gr
+h1.gr
+{
+	background-color: #000000;
+	margin: 0 auto;
+	color: goldenrod;
+	font-size: 19px;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	font-weight: bold;
+	white-space: nowrap;
+}
+
+h2.gr
 {
 	background-color: #000000;
 	margin: 0 auto;
