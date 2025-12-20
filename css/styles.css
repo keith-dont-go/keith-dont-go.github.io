@@ -242,14 +242,35 @@ video.clam
 	vertical-align: middle;
 }
 
-div.WeekdaysSchedGe
+div.WeekdaysSched
 {
 	background-color: #205070;
-	color: white;
-	width: 360px;
+	width: 100vh;
 	margin: 0 auto;
 	text-align: left;
 	font-family: monospace;
-	font-size: 12px;
+	font-size: 10px;
+	vertical-align: middle;
+}
+
+div.SaturdaysSched
+{
+	background-color: #156545;
+	width: 100vh;
+	margin: 0 auto;
+	text-align: left;
+	font-family: monospace;
+	font-size: 10px;
+	vertical-align: middle;
+}
+
+div.SundaysSched
+{
+	background-color: #603080;
+	width: 100vh;
+	margin: 0 auto;
+	text-align: left;
+	font-family: monospace;
+	font-size: 10px;
 	vertical-align: middle;
 }
