@@ -3,6 +3,8 @@ body
 	background-color: #000000;
 }
 
+img {max-width:100%}
+
 .block
 {
 	display: block;
