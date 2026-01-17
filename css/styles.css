@@ -32,7 +32,7 @@ img {max-width:100%}
 
 h1.main
 {
-	background-color: #306080;
+	background-color: #153040;
 	width: 360px;
 	margin: 0 auto;
 	text-align: center;
@@ -44,7 +44,7 @@ h1.main
 
 h2.main
 {
-	background-color: #306080;
+	background-color: #153040;
 	width: 360px;
 	margin: 0 auto;
 	text-align: center;
@@ -78,7 +78,7 @@ h2.gr
 
 div.A
 {
-	background-color: #306080;
+	background-color: #153040;
 	width: 360px;
 	margin: 0 auto;
 	text-align: center;
@@ -87,7 +87,7 @@ div.A
 
 div.B
 {
-	background-color: #306080;
+	background-color: #153040;
 	width: 360px;
 	margin: 0 auto;
 	vertical-align: middle;
@@ -115,7 +115,7 @@ div.C
 
 div.D
 {
-	background-color: #306080;
+	background-color: #153040;
 	width: 360px;
 	font-family: sans-serif;
 	margin: 0 auto;
@@ -145,6 +145,15 @@ div.cent
 
 div.crew
 {
+	width: 360px;
+	display: flex;
+	justify-content: space-between;
+}
+
+div.crewgray
+{
+	vertical-align: middle;
+	background-color: #303030;
 	width: 360px;
 	display: flex;
 	justify-content: space-between;
@@ -185,7 +194,7 @@ div.hdl
 
 div.spaceB
 {
-	background-color: #306080;
+	background-color: #153040;
 	width: 360px;
 	height: 8px;
 	margin: 0 auto;
@@ -200,7 +209,7 @@ div.spaceD
 div.marg
 {
 	font-family: Tahoma, Verdana, Segoe, sans-serif;
-	font-size: 1.3em;
+	font-size: 1.0em;
 	margin: 10px;
 }
 
@@ -216,6 +225,23 @@ span.caption
 	font-size: 1.3em;
 	font-weight: 900;
 	color: #FFFFFF;
+}
+
+div.giftable
+{
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-gap: 0px;
+	background-color: #153040;
+	vertical-align: middle;
+}
+
+div.giftable div
+{
+	background-color: #153040;
+	border: 0px;
+	padding: 10px;
+	vertical-align: middle;
 }
 
 video.btn
